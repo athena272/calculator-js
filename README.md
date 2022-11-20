@@ -2,7 +2,7 @@
 ## Sobre o projeto
 Uma calculadora feita com HTML, CSS e Javascript. Existe tratação de erro, troca de tema escuro/claro, copiar resultado para a área de transferência.
 
-## Ferramentas e depêndencias de build
+## Ferramentas 
 
 - HTML <img align="center" alt="Gui-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 - CSS <img align="center" alt="Gui-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
